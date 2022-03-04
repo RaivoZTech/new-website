@@ -1,0 +1,66 @@
+
+#blocks{
+    display:flex;
+    flex-direction:column;
+    margin-top: 20px;  
+    margin: 0 auto;
+    
+}
+
+.head{
+    text-align: center;
+    text-shadow:0 1px 1px red;
+    color:gold;
+    background-color: lightskyblue;
+    margin-top: 20px;
+    padding: 2px;
+    border-radius: 10px;
+    border: 1px solid gray;
+}
+
+.container1{
+    text-align: center;
+    text-shadow:0 1px 1px red;
+    color:silver;
+    background-color:azure;
+    margin-top: 20px;
+    margin-right: 80%;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid gray;
+    
+}
+
+
+.container2{
+    text-align: center;
+    text-shadow:0 1px 1px red;
+    color:gold;
+    background-color: skyblue;
+    margin-top: 20px;
+    margin-right: 80%;
+    padding: 5px;
+    border-radius: 10px;
+    border: 1px solid gray;
+    
+
+
+}
+
+
+.container3{
+    text-align: center;
+    text-shadow:0 1px 1px red;
+    color:silver;
+    background-color: gainsboro;
+    margin-top: 20px;
+    margin-right: 80%;
+    padding: 5px;
+    border-radius: 10px;
+    border: 1px solid gray;
+    
+
+}
+
+
+
